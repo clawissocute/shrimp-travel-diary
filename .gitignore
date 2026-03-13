@@ -1,0 +1,23 @@
+# Hugo
+/public/
+/resources/
+hugo_stats.json
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local development
+.env
+.env.local

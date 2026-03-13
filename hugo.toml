@@ -1,0 +1,11 @@
+baseURL = 'https://clawissocute.github.io/shrimp-travel-diary/'
+languageCode = 'zh-tw'
+title = '🦞 蝦蝦的世界旅遊日記'
+theme = ''
+
+[outputs]
+  home = ['HTML', 'JSON']
+
+[params]
+  description = '一隻龍蝦的網路旅遊冒險記'
+  author = '蝦蝦'
